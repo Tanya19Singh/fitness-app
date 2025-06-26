@@ -1,8 +1,5 @@
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/geeky-prashant/react-native-fitness-app)
-  ![GitHub stars](https://img.shields.io/github/stars/geeky-prashant/react-native-fitness-app?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/geeky-prashant/react-native-fitness-app?style=social)
+
  
   <br />
 
@@ -38,12 +35,6 @@ Like `npm start` / `yarn start`, but also attempts to open your app in the iOS S
 
 #### `npm run android`
 
-Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup).
+Like `npm start` / `yarn start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools
 
-### Contact
 
-If you want to contact me you can reach me at [LinkedIn](https://www.linkedin.com/in/geekyprashant/).
-
-### License
-
-This project is **free to use** and does not contain any license.
